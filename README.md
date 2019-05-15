@@ -22,8 +22,7 @@ Below there is a gif of the application and for the smart search there is a demo
 
 https://youtu.be/8O8HQLpzlGI
 
-
-![](gif.gif)
+<img src="https://github.com/EnricoCollini/CulturalCityAndroidApp/blob/master/gif.gif" height="500" />
 
 ## Authors
 * Collini Enrico
